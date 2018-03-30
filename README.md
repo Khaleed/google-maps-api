@@ -6,6 +6,7 @@
 ### Google Maps APIs
 
 Get a key for Google Maps JavaScript API from [Google Developers](https://developers.google.com/maps/documentation/javascript/)
+
 Get a key for Google Maps Directions API from [here](https://developers.google.com/maps/documentation/directions/) ensuring you use the same project name for both APIs
 
 
