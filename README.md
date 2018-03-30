@@ -26,7 +26,7 @@ To get dependencies
 
 To serve at http://localhost:3000 using [Express](https://http://expressjs.com/)
 
-`node app.js`
+`npm run serve`
 
 ## Tasks
 
